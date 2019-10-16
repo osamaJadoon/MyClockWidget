@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:text="Thank you for installing the Custom Analog Clock Widget.
+  Please read these important instructions.nnThis is a widget,not a regular
+  application. Unlike regular applications, widgets are placed on the home screen and offer
+  useful information at a glance."
+        android:textSize="30dp"/>
+
+
+</RelativeLayout>
